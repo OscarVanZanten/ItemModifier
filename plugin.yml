@@ -1,0 +1,8 @@
+name: ItemModifier
+version: 0.2
+author: InstaPizza
+depend: [BlockStore]
+load: POSTWORLD
+
+main: com.taoa.world.Main
+database: true
